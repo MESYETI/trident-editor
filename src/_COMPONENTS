@@ -1,8 +1,0 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-
-#include <ncurses.h>
-#include <time.h>
-#include <unistd.h>
